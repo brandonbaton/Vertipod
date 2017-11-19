@@ -326,6 +326,7 @@ header .intro-text .intro-heading {
 }
 
 section {
+    height: 100vh;
     padding: 100px 0;
 }
 
