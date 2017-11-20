@@ -275,7 +275,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .background-container {
-    background-image: url('{{ site.baseurl }}/img/background-1.png');
+    background-image: url('{{ site.baseurl }}/img/bg.png');
     top: 0;
     left: 0;
     position: fixed;

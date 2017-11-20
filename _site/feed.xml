@@ -5,8 +5,8 @@
     <description>Vertipod pre-order</description>
     <link>http://localhost:4000/vertipod//</link>
     <atom:link href="http://localhost:4000/vertipod//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Nov 2017 10:47:56 -0800</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 10:47:56 -0800</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2017 10:55:51 -0800</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 10:55:51 -0800</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
   </channel>
