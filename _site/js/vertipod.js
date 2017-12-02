@@ -37,7 +37,7 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 24, 2017 0:0:0").getTime();
+var countDownDate = new Date("Dec 10, 2017 0:0:0").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
