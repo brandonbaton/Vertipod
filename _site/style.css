@@ -271,7 +271,7 @@ header .subheading-text {
 }
 
 .background-container {
-    background-image: url('/home/img/bg.png');
+    background-image: url('/vertipod/img/bg.png');
     top: 0;
     left: 0;
     position: fixed;
@@ -712,7 +712,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('/home/img/map-image.png');
+    background-image: url('/vertipod/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
